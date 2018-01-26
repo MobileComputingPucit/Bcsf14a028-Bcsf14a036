@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FlipFlop</string>
+    <string name="a">How to Play</string>
+    <string name="b">Log In</string>
+    <string name="c">Sign Up</string>
+    <string name="d">Play as Guest</string>
+    <string name="hint_First">First Name</string>
+    <string name="hint_Last">Last Name</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_pass">Enter Password</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="howtoplay">It is a Memory game.You can play this to sharpen your memory.To play this game click
+        randomly on an image then on second image if both pictures are same both pictures will disapper.And you
+        will awarded one point.Else if pictures not matced then you have to try again.Keep doing this till end.
+    </string>
+</resources>
